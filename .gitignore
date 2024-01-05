@@ -1,0 +1,14 @@
+/my_venv
+__pycache__
+__pycache__/
+.ruff_cache/
+db.sqlite3
+media
+
+dist/
+wheels/
+.ipynb_checkpoints
+.env
+/venv
+/env
+my_venv/
